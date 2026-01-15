@@ -2,4 +2,4 @@
 Welcome to my winter vacation in 2026!
 
 ## ToBeginWith
-<img src="images/LogicAnalyzer/I2C.png" width="600">
+<img src="img/ToBeginWith.png" width="600">
